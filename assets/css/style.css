@@ -1,0 +1,56 @@
+body {
+    background-image: url("../image/R.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+@media (max-width: 768px) {
+    body {
+        background-image: url("../image/R.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    
+    }
+}
+@media (min-width: 769px) {
+    body {
+        background-image: url("../image/R.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    
+    }
+}
+.home{ 
+    font-size: larger;
+    font-style: initial;
+    color: deeppink;
+}
+.bi-house-fill{
+    font-style: initial;
+    color: deeppink;
+}
+.perfil {
+    font-size: larger;
+    font-style: initial;
+    color:deeppink;
+}
+.bi-person-fill {
+    color: deeppink;
+}
+
+.calendar {
+    color: deeppink;
+    text-align: center;
+    font-family: system-ui, -apple-system, B
+                linkMacSystemFont, 'Segoe UI', 
+                Roboto, Oxygen, Ubuntu, Cantarell, 
+                'Open Sans', 'Helvetica Neue', 
+                sans-serif;
+}
+.card {
+    color: deeppink;
+}
